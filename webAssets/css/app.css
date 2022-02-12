@@ -356,5 +356,19 @@ button,button:focus{outline:none;box-shadow:none!important;}
     width:100px;
 }
 
+@media only screen and (max-width: 601px) {
+    .mt-custom {
+        margin-top:4em
+    }
+    .mt-custom-2 {
+        margin-top:1em;
+
+    }
+
+    .text-center-custom {
+        text-align: center;
+    }
+}
+
 
 
