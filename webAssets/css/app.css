@@ -38,6 +38,18 @@ body {
     margin-top: -124px;
 }
 
+@media screen and (max-width: 600px) {
+    .heroSection {
+        background-repeat: no-repeat!important;
+        background-size: contain !important;
+
+    }
+    .bannerCaption{
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+}
+
 .heroSection {
     position: relative;
     background-image: url(../imgs/bannerPicture.jpg);
