@@ -352,5 +352,9 @@ button,button:focus{outline:none;box-shadow:none!important;}
 /*  color: white;*/
 /*}*/
 
+.img-width {
+    width:100px;
+}
+
 
 
